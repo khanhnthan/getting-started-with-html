@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at http://codepen.io/KhanhNThan/pen/waMgyQ.
+
+ This html doc is the notes for Steve Huffman's "The Basics of the Web and HTML." It is also the first project, Stage 0, for Udacity's Nanodegree: Introduction to Programming. An example of what the project is supposed to resemble can be found at Andy Brown's Codepen samples: http://learn-2-code.appspot.com/code_pen_examples/.
